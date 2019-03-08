@@ -1,0 +1,16 @@
+{
+    "name": "dxc-my-chat-bot",
+    "description": "",
+    "services": [
+        {
+            "type": "endpoint",
+            "name": "development",
+            "endpoint": "http://localhost:3978/api/messages",
+            "appId": "",
+            "appPassword": "",
+            "id": "1"
+        }
+    ],
+    "padlock": "14KjdDbMt8THrt5hCMufLQ==!a1UwqQvyNSgWYSeDSRq9NWAasRMznPT7MpJR++PPDekwBM7xviFg9bMmh/kg35Dp",
+    "version": "2.0"
+}
